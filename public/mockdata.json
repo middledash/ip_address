@@ -1,0 +1,24 @@
+ {
+    "ip": "158.181.70.118",
+    "location": {
+        "country": "DE",
+        "region": "Land Berlin",
+        "city": "Berlin",
+        "lat": 52.52437,
+        "lng": 13.41053,
+        "postalCode": "10967",
+        "timezone": "+02:00",
+        "geonameId": 2950159
+    },
+    "domains": [
+        "device-08e30f4f-b28c-45fe-8b0a-e1609a05d77c.remotewd.com"
+    ],
+    "as": {
+        "asn": 20880,
+        "name": "Tele Columbus AG",
+        "route": "158.181.64.0/19",
+        "domain": "http://www.telecolumbus.de",
+        "type": "Cable/DSL/ISP"
+    },
+    "isp": "Tele Columbus AG"
+}
